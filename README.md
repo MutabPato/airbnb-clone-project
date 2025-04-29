@@ -24,10 +24,52 @@
 
 - DevOps engineer: Facilitates cooperation between development and operations teams. Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
 
-## **
-## **
-## **
-## **
-## **
+## Technology Stack
+- Django: a high-level Python web framework that simplifies and speeds up the development of secure, maintainable web applications. It's designed to handle many common web development tasks, allowing developers to focus on the unique features of their applications rather than reinventing the wheel. 
+
+- MySQL: an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) to manage and store data. It is a widely used database system for a variety of applications, including web development, e-commerce, and content management systems. 
+
+- GraphQL: a query language and server-side runtime for APIs that provides clients with the specific data they request. It's an alternative to traditional REST APIs, allowing developers to fetch data from multiple sources with a single query. 
+
+## Database Design
+1. Users: 
+    - id
+    - name
+    - picture
+    - bio
+    - bookings
+    - properties
+2. Properties:
+    - id
+    - title
+    - description
+    - property type
+    - location
+    - price
+    - bookings
+3. Bookings: 
+    - id
+    - user_id
+    - property_id
+    - booking period
+    - price paid
+    - payment method used
+4. Reviews:
+    - id
+    - user_id
+    - property_id
+    - booking_period
+    - review text
+    
+5. Payments: 
+    - id
+    - user_id
+    - property_id
+    - booking_period
+    - payment method
+    - amount
+## Feature Breakdown
+## API Security
+## CI/CD Pipeline
 
  
