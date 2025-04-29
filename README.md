@@ -7,48 +7,22 @@
 
 - Project manager (PM): Makes sure a product or its part is delivered on time and within budget. Manages and motivates the software development team
 
-- UI/UX designer. Transforms a product vision into user-friendly designs
+- UI/UX designer: Transforms a product vision into user-friendly designs. Creates user journeys for the best user experience and highest conversion rates
 
 
-Creates user journeys for the best user experience and highest conversion rates
+- Software architect: Designs a high-level software architecture. Selects appropriate tools and platforms to implement the product vision. Sets up code quality standards and performs code reviews
 
 
-Software architect
-Designs a high-level software architecture
+- Software developer: Engineers and stabilizes the product. Solves any technical problems emerging during the development lifecycle
 
 
-Selects appropriate tools and platforms to implement the product vision
+- Quality assurance (QA) engineer: Makes sure an application performs according to requirements. Spots functional and non-functional defects
 
 
-Sets up code quality standards and performs code reviews
+- Test automation engineer. Designs a test automation ecosystem. Writes and maintains test scripts for automated testing
 
 
-Software developer
-Engineers and stabilizes the product
-
-
-Solves any technical problems emerging during the development lifecycle
-
-
-Quality assurance (QA) engineer
-Makes sure an application performs according to requirements
-
-
-Spots functional and non-functional defects
-
-
-Test automation engineer
-Designs a test automation ecosystem
-
-
-Writes and maintains test scripts for automated testing
-
-
-DevOps engineer
-Facilitates cooperation between development and operations teams
-
-
-Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
+- DevOps engineer: Facilitates cooperation between development and operations teams. Builds continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
 
 ## **
 ## **
